@@ -1,0 +1,19 @@
+.footer{
+    margin-top: 1rem;
+    padding: .5rem;
+    background-color:rgb(222, 208, 215);
+    position: fixed;
+    bottom: 0;
+    left: 100;
+    width: 100%;
+  }
+
+  /* .footText2{
+    margin-top: 1rem;
+    padding: .5rem;
+    background-color:rgb(222, 208, 215);
+    position: fixed;
+    bottom: 0;
+    left: 100;
+    width: 100%;
+  }  */
