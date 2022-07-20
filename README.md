@@ -26,12 +26,10 @@ This portfolio is to show employers who are looking for candidates with experien
  
 
 
-## Screen Shot 
+## Video 
 
-![My Image](../src/images/screenShot.jpg)
-<!-- <p>
-    <img src="../src/images/screenShot.jpg" width="220" height="240" />
-</p> -->
+[Demo of Portfolio](https://drive.google.com/file/d/1DdtMeiD4xsbuksSMtp0zsp_mGeX9qhHc/view)
+
 
 ## Link
 [github repository](https://github.com/SheriB7/reactProfile)\
@@ -45,5 +43,4 @@ This portfolio is to show employers who are looking for candidates with experien
 
 [GitHub](https://github.com/SheriB7)\
 [Email Me](Sherib70@gmail.com)
-# profile
-# profile
+
